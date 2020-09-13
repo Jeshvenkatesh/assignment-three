@@ -1,0 +1,33 @@
+.header{
+    width:100%;
+    height:fit-content;
+    background-color: aqua;
+}
+body{
+    margin: 0px;
+}
+.header-list{
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.header-list a{
+    text-decoration: none;
+}
+.list-item{
+    list-style-type: none;
+    padding-left:30px;
+}
+.main-form{
+    width:300px;
+    height:fit-content;
+    background-color: aqua;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:30px;
+    text-align: center;
+}
